@@ -1,7 +1,10 @@
 # Kattis_Solutions
 This is a list of "most of" my solutions for Kattis Problem Archive.
+
 Note: Most of codes are messy. The goal of programming contests is to solve the problems quickly, not to produce maintainable code.
+
 Note 2: I've encrypted the files due to a message from Kattis advising me not to share the codes publicly.
+
 # Programming languages used:
 - C\C++ Mainly
 - Java
