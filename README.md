@@ -5,6 +5,8 @@ Note: Most of codes are messy. The goal of programming contests is to solve the 
 
 Note 2: I've encrypted the files due to a message from Kattis advising me not to share the codes publicly.
 
+<b> Contact me personally if you want to see my code </b>
+
 # Programming languages used:
 - C\C++ Mainly
 - Java
